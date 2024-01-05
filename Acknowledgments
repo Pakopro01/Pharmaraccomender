@@ -1,0 +1,9 @@
+Acknowledgments
+I extend my heartfelt gratitude to the following individuals and organizations for their invaluable contributions to the PharmaRecommender project:
+
+1) University and Professors: Special thanks to my professors and university for providing the educational resources and stimulating environment necessary for this project's development. Their guidance has been crucial.
+2) Surprise Library Team: My appreciation goes to the developers and contributors of the Surprise library, an exceptional tool for implementing collaborative filtering algorithms. Their work greatly facilitated the development of my algorithm.
+3) 1000farmacie: I am particularly grateful to 1000farmacie for sharing their data, making a significant contribution to the practical application and effectiveness of PharmaRecommender.
+4) Project Collaborators and Code Reviewers (chatgpt): Thanks to openAI who contributed their time to review and improve PharmaRecommender. Their insights and feedback have immensely enhanced the project's quality and reliability.
+
+This project has been an educational and enriching journey, and I hope PharmaRecommender serves as a valuable resource in the field of recommendation systems and data science.
