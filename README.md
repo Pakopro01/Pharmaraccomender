@@ -12,7 +12,7 @@ pip install pandas scikit-surprise
 
 ## Installazione
 Clona il repository:
-git clone https://github.com/[tuo-username]/pharmarecommender.git
+git clone https://github.com/pakopro01/pharmarecommender.git
 
 Naviga nella directory del progetto:
 cd pharmarecommender
